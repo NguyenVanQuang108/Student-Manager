@@ -40,6 +40,8 @@ student-manager/
 │
 └── README.MD
 
-# Hình ảnh
-![Uploading image.png…]()
+<img width="1024" height="530" alt="image" src="https://github.com/user-attachments/assets/96bb6975-eeeb-49d5-a548-e20f62425b73" />
 
+
+
+  
