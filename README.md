@@ -23,6 +23,8 @@ Plugin hỗ trợ:
 - Lưu dữ liệu an toàn bằng Nonce và Sanitize
 - Hiển thị danh sách sinh viên ngoài Frontend bằng shortcode
 
+<img width="1024" height="530" alt="image" src="https://github.com/user-attachments/assets/96bb6975-eeeb-49d5-a548-e20f62425b73" />
+
 ## Cấu trúc thư mục
 
 ```text
@@ -40,7 +42,6 @@ student-manager/
 │
 └── README.MD
 
-<img width="1024" height="530" alt="image" src="https://github.com/user-attachments/assets/96bb6975-eeeb-49d5-a548-e20f62425b73" />
 
 
 
